@@ -35,7 +35,10 @@ The system works fully automatically with minimal user input.
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ System Architecture
+
+![System Architecture](architecture.jpeg)
+
 
 User Goal  
 ↓  
