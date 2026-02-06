@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Foundations of GenIR",
+        "summary": "The chapter discusses the foundational impact of modern generative AI models on information access (IA) systems. In contrast to traditional AI, the large-scale training and superior data modeling of generative AI models enable them to produce high-quality, human-like responses, which brings brand new opportunities for the development of IA paradigms. In this chapter, we identify and introduce two of them in details, i",
+        "link": "http://arxiv.org/abs/2501.02842v1"
+    },
+    {
+        "title": "One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture",
+        "summary": "Artificial intelligence is transforming precision agriculture, offering farmers new tools to streamline their daily operations. While these technological advances promise increased efficiency, they often introduce additional complexity and steep learning curves that are particularly challenging for non-technical users who must balance tech adoption with existing workloads. In this paper, we present a natural language (NL) robotic mission planner that enables non-specialists to control heterogeneous robots through a common interface",
+        "link": "http://arxiv.org/abs/2506.10106v1"
+    },
+    {
+        "title": "Competing Visions of Ethical AI: A Case Study of OpenAI",
+        "summary": "Introduction. AI Ethics is framed distinctly across actors and stakeholder groups. We report results from a case study of OpenAI analysing ethical AI discourse",
+        "link": "http://arxiv.org/abs/2601.16513v1"
+    }
+]
